@@ -1,4 +1,3 @@
-
 ----- test start for id 00000000 -----
 
 <test-case-1>
